@@ -12,7 +12,7 @@ public class Main {
         InstrumentMuzyczny gitaraZosi = new Gitara("rozowa", "trrrGitaraGra", 1000);
         InstrumentMuzyczny zlotaTrabka = new Trabka("zlotaTrabka", "trutututu", 1000000, 24);
 
-        InstrumentMuzyczny nowySuperIns = new SuperInstrumentNowy("nazwanowegoSuper", "przepiękny dziwk", 11);
+        InstrumentMuzyczny nowySuperIns = new SuperInstrumentNowy("nazwanowegoSuper", "piękny dźwięk", 11);
 
         List<InstrumentMuzyczny> listaInstrumentow = new ArrayList<>();
 
